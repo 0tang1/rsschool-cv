@@ -46,3 +46,23 @@ function isTriangle(a, b, c) {
 ```
 
 ---
+
+## Experience:
+
+---
+
+## Education
+
+- **Eurasian National University**
+  - Bachelor, Computer Engineering
+
+## Courses
+
+- [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
+- [Sololearn](https://www.sololearn.com/profile/10303281)
+
+## Languages:
+
+- **Kazakh** - Native
+- **Russian** - Intermediate
+- **English** - A2
